@@ -3,6 +3,7 @@ A personal ranker that allows you to rank and sort your own Top 7 (tba) for Mnet
 ![Screenshot](screenshot.png)
 
 Note: For now, the color borders around each contestant corresponds to which dance performance they were in. This is subject to change.
+This was forked from the amazing [produce48 ranker](https://github.com/produce48/produce48.github.io).
 
 <b>Updates</b>
 * 21/03: Ranker has been made, needs setting up
