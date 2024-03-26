@@ -7,6 +7,8 @@ Note: For now, the color borders around each contestant corresponds to which dan
 <b>Updates</b>
 * 21/03: Ranker has been made, needs setting up
 * 22/03: Ranker has been set up!
+* 24/03: Thanos snapped
+* 26/03: The unsnappening
 
 <b>WIP</b>
 * tba
