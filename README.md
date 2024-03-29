@@ -2,11 +2,10 @@ A personal ranker that allows you to rank and sort your own Top 7 (tba) for Mnet
 
 ![Screenshot](screenshot.png)
 
-Note: For now, the color borders around each contestant corresponds to which dance performance they were in. This is subject to change.
-
-Note 2: This was forked from the amazing [produce48 ranker](https://github.com/produce48/produce48.github.io).
-
-Note 3: You can search contestants by alternative names, nationality, birth year and affiliations (eg. previous survival shows).
+<b>Notes</b>
+* For now (pre-show), the color borders around each contestant corresponds to which dance performance they were in, i.e. Heel Dance, Waacking, Girlish Choreo and Hiphop. This is subject to change.
+* This was forked from the amazing [produce48 ranker](https://github.com/produce48/produce48.github.io).
+* You can search contestants by alternative names, nationality, birth year and affiliations (eg. previous survival shows).
 
 <b>Updates</b>
 * 21/03: Ranker has been made, needs setting up
