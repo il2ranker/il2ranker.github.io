@@ -330,11 +330,11 @@ const alternateRomanizations = {
   'nam yuju': ['stars awakening','capteen','evermore muse','cap-teen'],
   'fuko': ['girls planet 999','gp999'],
   'kim minsol': ['my teenage girl','mtg'],
-  'kim gyuri': ['hotel del luna'],
-  'kim sujung': ['street girls fighter'],
+  'kim gyuri': ['hotel del luna','iu','my mister','my ajussi'],
+  'kim sujung': ['street girls fighter','sgdf'],
   'nana': ['produce 101 japan','pdj'],
-  'bang jeemin': ['r u next','run'],
-  'lingling': ['alicia','huang lingling','huang ling ling']
+  'bang jeemin': ['r u next','run','runext'],
+  'lingling': ['alicia','huang lingling','huang ling ling','wong ling ling','wong lingling']
 };
 
 // uses the current filter text to create a subset of trainees with matching info
