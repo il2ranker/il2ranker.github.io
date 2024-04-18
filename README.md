@@ -13,6 +13,7 @@ A personal ranker that allows you to rank and sort your own Top 7 (tba) for Mnet
 * 24/03: Thanos snapped
 * 26/03: The unsnappening
 * 29/03: Small QOL update
+* 18/04: Updated trainee info
 
 <b>WIP</b>
-* tba
+* Use the colors for Land/Ground instead when the ep airs
